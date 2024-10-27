@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FurkanGundogan
 - 🌱 I’m currently developing mostly with React and Asp.NET Core.
-- 👀 I've started learning Unity
+- 👀 I've started follow online courses to practice game development with Unity and Unreal Engine as a hobby
 - 📫 How to reach me: furkangundogan14@outlook.com
 
 <!---
